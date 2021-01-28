@@ -1,0 +1,25 @@
+.home_icon{
+    text-align:left;
+    background-color: black;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 300;
+    
+}
+.home_icon> li >a{
+    direction: ltr;
+   /* border-style: solid;
+    border-color: teal;*/
+    color: mediumspringgreen;
+    font-weight: 600;
+    font-size: 80px;
+}
+.per{
+    color: chartreuse;
+}
+.personal> li{
+   font-size: 10px;
+   color: blue;
+}
+
+
